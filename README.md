@@ -1,2 +1,2 @@
-# jenkins-build-button
-A big fat red button to trigger Jenkins builds
+# jenkins-deploy-button
+A big fat red button to trigger Jenkins build and deploy.
